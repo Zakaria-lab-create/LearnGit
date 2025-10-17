@@ -1,0 +1,12 @@
+Student: {
+  "name": "Marie",
+  "age": 21,
+  "courses": [
+    "Math",
+    "Physics",
+    "Chemistry"
+  ],
+  "grade": "A"
+}
+physicsIndex: 1
+Premiers cours: ["Physics","Chemistry"]
